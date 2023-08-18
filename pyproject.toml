@@ -68,6 +68,7 @@ pytest = "*"
 selenium = "*"
 pytest-mock = "*"
 pytest-cov = "*"
+python-dotenv="*"
 
 [tools.poetry.group.load.dependencies]
 locust = "*"
